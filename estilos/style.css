@@ -12,9 +12,9 @@
 
  body,html{
     background-color: blueviolet;
-    max-height: 100%;
+    height: auto;
     width: 100%;
-    overflow-y: ;
+   
 
  }
 
