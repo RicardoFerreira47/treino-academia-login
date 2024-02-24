@@ -107,7 +107,7 @@ div.campo>input {
   height: 91%;
   border-radius: 0px 5px 5px 0px;
   border: none;
-  transform: translateY(-8px);
+  transform: translateY(-5px);
   
 
 }
@@ -133,6 +133,12 @@ form>input[type=submit]:hover {
 form > input#entrar{
   font-weight: bolder;
   ** fiz diretamente no html***
+}*/
+
+
+/*
+form > input::-webkit-input-placeholder{
+  letter-spacing: 2px;
 }*/
 
 form>a.botao {
